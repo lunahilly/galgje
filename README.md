@@ -11,4 +11,4 @@
 
 ## Beurten
 1.a - fout
-2. e
+2. e - fout
