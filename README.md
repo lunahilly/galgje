@@ -7,7 +7,7 @@
 |1|2|3|4|5|6|
 
 ## Score
-![gallow(./images/4.png)]
+![gallow(./images/5.png)]
 
 ## Beurten
 1.a - fout
@@ -16,4 +16,4 @@
 4. m - fout
 5. o - goed
 6. L - goed
-7. i
+7. i - fout
