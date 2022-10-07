@@ -17,3 +17,4 @@
 5. o - goed
 6. L - goed
 7. i - fout
+8. c 
