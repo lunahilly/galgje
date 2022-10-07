@@ -2,7 +2,7 @@
 
 ## Te raden woord
 
-|s|.|.|o|o|l|
+|s|c|h|o|o|l|
 |-|-|-|-|-|-|
 |1|2|3|4|5|6|
 
@@ -17,4 +17,5 @@
 5. o - goed
 6. L - goed
 7. i - fout
-8. c 
+8. c - goed
+9. H - goed
