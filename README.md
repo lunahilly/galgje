@@ -12,3 +12,4 @@
 ## Beurten
 1.a - fout
 2. e - fout
+3. s
