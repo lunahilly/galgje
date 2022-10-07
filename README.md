@@ -15,5 +15,5 @@
 3. s - goed
 4. m - fout
 5. o - goed
-
+6. L
 
